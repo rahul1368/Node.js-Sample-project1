@@ -1,4 +1,2 @@
 # hell0
-test
-Hello this is rahul
-This is rock star guys
+This is sample project in node.js and express.js.
